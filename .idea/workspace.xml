@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f55b2b1a-dc97-473f-86d6-6c9b311d1d3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Selenium_POM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium_POM/src/test/java/objects/SharebusHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium_POM/src/test/java/test/sharebusSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MembershipPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MyBusesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Publish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testSharebus/SharebusSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selinium_Pom/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selinium_Pom/src/test/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M3TK2sxy1mWcWXnQ3gsJRdPDac" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sharebusObjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SharebusSetup">
+    <configuration name="SharebusSetup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSharebus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSharebus" />
+      <option name="MAIN_CLASS_NAME" value="testSharebus.SharebusSetup" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharebusSetup.SignIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSharebus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSharebus" />
+      <option name="MAIN_CLASS_NAME" value="testSharebus.SharebusSetup" />
+      <option name="METHOD_NAME" value="SignIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharebusSetup.credentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSharebus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSharebus" />
+      <option name="MAIN_CLASS_NAME" value="testSharebus.SharebusSetup" />
+      <option name="METHOD_NAME" value="credentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharebusSetup.roleSelection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSharebus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSharebus" />
+      <option name="MAIN_CLASS_NAME" value="testSharebus.SharebusSetup" />
+      <option name="METHOD_NAME" value="roleSelection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharebusSetup.signIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_POM_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSharebus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testSharebus" />
+      <option name="MAIN_CLASS_NAME" value="testSharebus.SharebusSetup" />
+      <option name="METHOD_NAME" value="signIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SharebusSetup" />
+        <item itemvalue="TestNG.SharebusSetup.roleSelection" />
+        <item itemvalue="TestNG.SharebusSetup.signIn" />
+        <item itemvalue="TestNG.SharebusSetup.credentials" />
+        <item itemvalue="TestNG.SharebusSetup.SignIn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f55b2b1a-dc97-473f-86d6-6c9b311d1d3a" name="Changes" comment="" />
+      <created>1676995204635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676995204635</updated>
+    </task>
+    <servers />
+  </component>
+</project>
